@@ -5,7 +5,7 @@ This is demo recipe rest api develop in django rest framework using class base v
 	<li>Python 3.6+</li>
 	<li>Django</li>
 	<li>Django rest framework</li>
-  <li>Django swager </li>
+	<li><a href="https://django-rest-swagger.readthedocs.io/en/latest/" target="_blank" >Django swager for Ui api docs </a></li>
 </ul>
 <h3>what you will learn from this tutorial:</h3>
  
@@ -18,7 +18,7 @@ This is demo recipe rest api develop in django rest framework using class base v
 </ul>
 <h3>how to run this code:</h3>
 <ul>
-	<li>clone or download it from <a href="https://github.com/rajat4665/Rest-api-with-CRUD-operation-using-Flask" target="_blank" rel="noopener">here</a></li>
+	<li>clone or download it from <a href="https://github.com/rajat4665/DRF_recipe_rest_api_with_modelviewset" target="_blank" rel="noopener">here</a></li>
 	<li>install requirements.txt file</li>
 	<li><code>pip install -r requirements.txt</code></li>
   <li>run this command to execute this code </li>
